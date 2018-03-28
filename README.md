@@ -1,0 +1,1 @@
+This is some rough code for exporting an Azure Bot Service bot's data.   This version just dumps it to the console. It should be obvious how to write it to a file or to use the same code to migrate the bot's state data. 
